@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codeloopy
-- 👀 I’m interested in JS full-stack tech
-- 🌱 I’m currently learning ... Svelte and playing with 11ty
+- 👀 I’m interested in JS, Ruby + RoR
+- 🌱 I’m currently learning ... React and playing with 11ty
 - 💞️ I’m looking to collaborate on ... Mmmmm
 - 📫 How to reach me ... coming soon.
 
